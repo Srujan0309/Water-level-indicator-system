@@ -51,9 +51,4 @@ To use this project, load the code onto an 8051 microcontroller, connect the swi
 
 ---
 
-### Hashtags
-
-#EmbeddedSystems #Microcontroller #WaterManagement #8051 #Electronics #RealTimeMonitoring #EngineeringProjects #LEDIndicator #IoT #TechInnovation
-
----
 
