@@ -35,9 +35,7 @@ The system operates by continuously monitoring the state of four switches, which
 
 The Water Level Indicator System effectively monitors and displays the water level through LEDs, providing a simple yet efficient solution for water management. This project enhances my skills in embedded systems and real-time monitoring applications, demonstrating my proficiency with microcontrollers and practical electronics.
 
-## Demonstration
 
-[Include any images or diagrams here]
 
 ## Usage
 
@@ -49,9 +47,7 @@ To use this project, load the code onto an 8051 microcontroller, connect the swi
 - Implement an LCD display for precise water level measurement.
 - Integrate with IoT for remote monitoring.
 
-## Contact
 
-For any inquiries or contributions, please reach out to [Your Email] or connect with me on [LinkedIn Profile].
 
 ---
 
